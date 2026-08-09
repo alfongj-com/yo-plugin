@@ -1,0 +1,13 @@
+{
+  "name": "yo",
+  "version": "1.0.0",
+  "description": "Let your agent Yo you: one MCP tool call sends a push notification to your phone.",
+  "author": {
+    "name": "alfongj-com",
+    "url": "https://getyo.dev"
+  },
+  "homepage": "https://getyo.dev/agents",
+  "repository": "https://github.com/alfongj-com/yo-plugin",
+  "license": "MIT",
+  "keywords": ["push-notifications", "notify", "mcp", "agent-notifications"]
+}

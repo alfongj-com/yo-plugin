@@ -1,0 +1,25 @@
+{
+  "name": "yo-marketplace",
+  "description": "Send content-free push notifications to a paired phone from AI agents.",
+  "owner": {
+    "name": "alfongj-com",
+    "url": "https://getyo.dev"
+  },
+  "plugins": [
+    {
+      "name": "yo",
+      "source": "./",
+      "version": "1.0.0",
+      "author": {
+        "name": "alfongj-com",
+        "url": "https://getyo.dev"
+      },
+      "description": "Let your agent Yo you: one MCP tool call sends a push notification to your phone.",
+      "homepage": "https://getyo.dev/agents",
+      "repository": "https://github.com/alfongj-com/yo-plugin",
+      "license": "MIT",
+      "keywords": ["push-notifications", "notify", "mcp", "agent-notifications"],
+      "category": "notifications"
+    }
+  ]
+}

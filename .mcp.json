@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "yo": {
+      "type": "http",
+      "url": "https://getyo.dev/mcp",
+      "headers": {
+        "Authorization": "Bearer ${YO_API_KEY}"
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "yo": {
+      "type": "streamable-http",
+      "url": "https://getyo.dev/mcp",
+      "headers": {
+        "Authorization": "Bearer ${YO_API_KEY}"
+      }
+    }
+  }
+}
